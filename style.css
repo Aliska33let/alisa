@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: #FF5DD2;
+}
+
+h1{
+    font-size: 70px;
+    position: relative;
+    left: 50%;
+    top: 50px;
+}
+
+a{
+    display: inline-block;
+    color: rgb(255, 234, 253);
+    background-color: #FF5DD2;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+    font-weight: 600;
+}
